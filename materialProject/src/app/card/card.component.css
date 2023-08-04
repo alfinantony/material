@@ -1,0 +1,11 @@
+.card{
+    width: 250px;
+    padding: 10px;
+}
+
+
+.effect:hover{
+
+    padding: 10px;
+    transition: .4s;
+}
